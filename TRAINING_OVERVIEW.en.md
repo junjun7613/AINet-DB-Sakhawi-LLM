@@ -230,6 +230,8 @@ The v3 model no longer outputs al-Biqāʿī as a teacher in the wrong direction.
 
 With every text, the model receives a short instruction (in English) describing the output format and the list of relation types.
 
+More examples are in [data/sample/](data/sample/): 20 training entries, and for 20 test entries the gold data alongside the outputs before and after fine-tuning ([test_extractions.md](data/sample/test_extractions.md), in Japanese).
+
 ## 3. Training method
 
 | Item | Setting |
