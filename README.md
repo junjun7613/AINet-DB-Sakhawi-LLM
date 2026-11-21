@@ -11,10 +11,11 @@
 | ファイル | 内容 |
 |---|---|
 | [TRAINING_OVERVIEW.md](TRAINING_OVERVIEW.md) | 訓練の概要。データの作り方、学習・評価の方法、結果、今後の予定を説明しています |
-| [figures/](figures/) | 概要で使っている図 |
+| [TRAINING_OVERVIEW.en.md](TRAINING_OVERVIEW.en.md) | 訓練の概要の英語版 |
+| [figures/](figures/) | 概要で使っている図(英語版の図は `*_en.svg`) |
 
 訓練用のデータなどは、準備が整いしだい追加します。
 
 ---
 
-*This repository stores and shares materials on training local LLMs for an Arabic biographical dictionary (al-Sakhāwī's* al-Ḍawʾ al-Lāmiʿ*). At present it contains only the training overview (in Japanese).*
+*This repository stores and shares materials on training local LLMs for an Arabic biographical dictionary (al-Sakhāwī's* al-Ḍawʾ al-Lāmiʿ*). At present it contains only the training overview: see [TRAINING_OVERVIEW.en.md](TRAINING_OVERVIEW.en.md) (English) or [TRAINING_OVERVIEW.md](TRAINING_OVERVIEW.md) (Japanese).*

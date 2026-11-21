@@ -3,8 +3,8 @@
 <text x="20.0" y="30.0" font-size="16" fill="#0b0b0b" text-anchor="start" font-weight="bold">図1 追加学習の効果(学習前 → 学習後、test 319 項目、旧データで学習)</text>
 <circle cx="26.0" cy="54.0" r="6" fill="#b5b3ab"/>
 <text x="38.0" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">学習前(zero-shot)</text>
-<circle cx="234.0" cy="54.0" r="6" fill="#2a78d6"/>
-<text x="246.0" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">学習後(LoRA)</text>
+<circle cx="175.9" cy="54.0" r="6" fill="#2a78d6"/>
+<text x="187.9" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">学習後(LoRA)</text>
 <text x="120.0" y="78.0" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="bold">関係(緩い)F1</text>
 <line x1="120.0" y1="92.0" x2="120.0" y2="266.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="120.0" y="282.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">0.0</text>

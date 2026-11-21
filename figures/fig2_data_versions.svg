@@ -3,10 +3,10 @@
 <text x="20.0" y="30.0" font-size="16" fill="#0b0b0b" text-anchor="start" font-weight="bold">図2 学習データの改訂ごとの比較(Gemma 4 12B・3 エポック、test 319 項目、F1)</text>
 <circle cx="26.0" cy="54.0" r="6" fill="#86b6ef"/>
 <text x="38.0" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">旧データ(10/19)</text>
-<circle cx="195.0" cy="54.0" r="6" fill="#2a78d6"/>
-<text x="207.0" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">v2 データ(11/17)</text>
-<circle cx="390.0" cy="54.0" r="6" fill="#104281"/>
-<text x="402.0" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">v3 データ(11/18)</text>
+<circle cx="161.0" cy="54.0" r="6" fill="#2a78d6"/>
+<text x="173.0" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">v2 データ(11/17)</text>
+<circle cx="304.2" cy="54.0" r="6" fill="#104281"/>
+<text x="316.2" y="58.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">v3 データ(11/18)</text>
 <line x1="130.0" y1="94.0" x2="130.0" y2="334.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="130.0" y="350.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">0.5</text>
 <line x1="290.0" y1="94.0" x2="290.0" y2="334.0" stroke="#e1e0d9" stroke-width="1"/>
