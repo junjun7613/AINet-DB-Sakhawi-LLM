@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" font-family="'Noto Sans CJK JP','Noto Sans JP','Hiragino Sans','Yu Gothic',sans-serif">
+<rect width="100%" height="100%" fill="#fcfcfb"/>
+<text x="20.0" y="30.0" font-size="16" fill="#0b0b0b" text-anchor="start" font-weight="bold">図3 v3 データによる変化と 95% 信頼区間(Gemma 4 12B、F1 の差)</text>
+<text x="20.0" y="54.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">横線が 0 の縦線にかからなければ、偶然では説明しにくい差です(対応ありブートストラップ 2,000 回)。</text>
+<text x="120.0" y="84.0" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="bold">v3 − v2(test 全 414 項目)</text>
+<line x1="139.4" y1="96.0" x2="139.4" y2="280.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="139.4" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">-0.05</text>
+<line x1="236.5" y1="96.0" x2="236.5" y2="280.0" stroke="#c3c2b7" stroke-width="1.5"/>
+<text x="236.5" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">0</text>
+<line x1="333.5" y1="96.0" x2="333.5" y2="280.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="333.5" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">+0.05</text>
+<line x1="430.6" y1="96.0" x2="430.6" y2="280.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="430.6" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">+0.10</text>
+<text x="108.0" y="122.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">関係(厳密)</text>
+<line x1="227.3" y1="118.0" x2="362.8" y2="118.0" stroke="#898781" stroke-width="2"/>
+<circle cx="295.0" cy="118.0" r="6" fill="#898781" stroke="#fcfcfb" stroke-width="2"/>
+<text x="370.8" y="122.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">+0.030</text>
+<text x="108.0" y="168.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">関係(緩い)</text>
+<line x1="223.8" y1="164.0" x2="332.0" y2="164.0" stroke="#898781" stroke-width="2"/>
+<circle cx="277.7" cy="164.0" r="6" fill="#898781" stroke="#fcfcfb" stroke-width="2"/>
+<text x="340.0" y="168.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">+0.021</text>
+<text x="108.0" y="214.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">相手の発見</text>
+<line x1="218.0" y1="210.0" x2="319.2" y2="210.0" stroke="#898781" stroke-width="2"/>
+<circle cx="266.9" cy="210.0" r="6" fill="#898781" stroke="#fcfcfb" stroke-width="2"/>
+<text x="327.2" y="214.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">+0.016</text>
+<text x="108.0" y="260.0" font-size="13" fill="#0b0b0b" text-anchor="end" font-weight="normal">関係の種類</text>
+<line x1="241.6" y1="256.0" x2="334.0" y2="256.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="287.1" cy="256.0" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="342.0" y="260.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="bold">+0.026 *</text>
+<text x="530.0" y="84.0" font-size="13" fill="#0b0b0b" text-anchor="start" font-weight="bold">v3 − 旧データ(test 319 項目)</text>
+<line x1="549.4" y1="96.0" x2="549.4" y2="280.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="549.4" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">-0.05</text>
+<line x1="646.5" y1="96.0" x2="646.5" y2="280.0" stroke="#c3c2b7" stroke-width="1.5"/>
+<text x="646.5" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">0</text>
+<line x1="743.5" y1="96.0" x2="743.5" y2="280.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="743.5" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">+0.05</text>
+<line x1="840.6" y1="96.0" x2="840.6" y2="280.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="840.6" y="296.0" font-size="11" fill="#898781" text-anchor="middle" font-weight="normal">+0.10</text>
+<line x1="663.8" y1="118.0" x2="843.2" y2="118.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="750.7" cy="118.0" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="851.2" y="122.0" font-size="12" fill="#0b0b0b" text-anchor="start" font-weight="bold">+0.054 *</text>
+<line x1="612.6" y1="164.0" x2="763.0" y2="164.0" stroke="#898781" stroke-width="2"/>
+<circle cx="681.7" cy="164.0" r="6" fill="#898781" stroke="#fcfcfb" stroke-width="2"/>
+<text x="771.0" y="168.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">+0.018</text>
+<line x1="621.0" y1="210.0" x2="752.1" y2="210.0" stroke="#898781" stroke-width="2"/>
+<circle cx="685.1" cy="210.0" r="6" fill="#898781" stroke="#fcfcfb" stroke-width="2"/>
+<text x="760.1" y="214.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">+0.020</text>
+<line x1="629.9" y1="256.0" x2="753.7" y2="256.0" stroke="#898781" stroke-width="2"/>
+<circle cx="689.9" cy="256.0" r="6" fill="#898781" stroke="#fcfcfb" stroke-width="2"/>
+<text x="761.7" y="260.0" font-size="12" fill="#52514e" text-anchor="start" font-weight="normal">+0.022</text>
+<text x="20.0" y="316.0" font-size="11" fill="#898781" text-anchor="start" font-weight="normal">* = 95% 区間が 0 を含まない。v3 はバッチ生成のままの出力で比較。</text>
+</svg>
